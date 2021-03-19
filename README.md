@@ -14,4 +14,4 @@ The code is organized in the following section:
 4. Definition of a function for the Newton's Method  algorithm. 
 5. Definition of a function to visualize the different trajectories of the algorithms in the neighbourhood of the minimum. 
 6. Experiment 2 for loop for the creation of the samples and the computation of the test.
-7. Description of the samples obtained. 
+7. Analysis of the samples created. 
